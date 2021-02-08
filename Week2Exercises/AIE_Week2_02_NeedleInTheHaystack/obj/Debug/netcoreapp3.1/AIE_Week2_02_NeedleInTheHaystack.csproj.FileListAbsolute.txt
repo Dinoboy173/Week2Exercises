@@ -1,0 +1,11 @@
+C:\Users\s201031\source\repos\Week2Exercises\AIE_Week2_02_NeedleInTheHaystack\bin\Debug\netcoreapp3.1\AIE_Week2_02_NeedleInTheHaystack.exe
+C:\Users\s201031\source\repos\Week2Exercises\AIE_Week2_02_NeedleInTheHaystack\bin\Debug\netcoreapp3.1\AIE_Week2_02_NeedleInTheHaystack.deps.json
+C:\Users\s201031\source\repos\Week2Exercises\AIE_Week2_02_NeedleInTheHaystack\bin\Debug\netcoreapp3.1\AIE_Week2_02_NeedleInTheHaystack.runtimeconfig.json
+C:\Users\s201031\source\repos\Week2Exercises\AIE_Week2_02_NeedleInTheHaystack\bin\Debug\netcoreapp3.1\AIE_Week2_02_NeedleInTheHaystack.runtimeconfig.dev.json
+C:\Users\s201031\source\repos\Week2Exercises\AIE_Week2_02_NeedleInTheHaystack\bin\Debug\netcoreapp3.1\AIE_Week2_02_NeedleInTheHaystack.dll
+C:\Users\s201031\source\repos\Week2Exercises\AIE_Week2_02_NeedleInTheHaystack\bin\Debug\netcoreapp3.1\AIE_Week2_02_NeedleInTheHaystack.pdb
+C:\Users\s201031\source\repos\Week2Exercises\AIE_Week2_02_NeedleInTheHaystack\obj\Debug\netcoreapp3.1\AIE_Week2_02_NeedleInTheHaystack.csprojAssemblyReference.cache
+C:\Users\s201031\source\repos\Week2Exercises\AIE_Week2_02_NeedleInTheHaystack\obj\Debug\netcoreapp3.1\AIE_Week2_02_NeedleInTheHaystack.AssemblyInfoInputs.cache
+C:\Users\s201031\source\repos\Week2Exercises\AIE_Week2_02_NeedleInTheHaystack\obj\Debug\netcoreapp3.1\AIE_Week2_02_NeedleInTheHaystack.AssemblyInfo.cs
+C:\Users\s201031\source\repos\Week2Exercises\AIE_Week2_02_NeedleInTheHaystack\obj\Debug\netcoreapp3.1\AIE_Week2_02_NeedleInTheHaystack.dll
+C:\Users\s201031\source\repos\Week2Exercises\AIE_Week2_02_NeedleInTheHaystack\obj\Debug\netcoreapp3.1\AIE_Week2_02_NeedleInTheHaystack.pdb

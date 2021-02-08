@@ -1,0 +1,10 @@
+C:\Users\s201031\source\repos\Week2Exercises\AIE_Week2_03_ReverseArray\obj\Debug\netcoreapp3.1\AIE_Week2_03_ReverseArray.AssemblyInfoInputs.cache
+C:\Users\s201031\source\repos\Week2Exercises\AIE_Week2_03_ReverseArray\obj\Debug\netcoreapp3.1\AIE_Week2_03_ReverseArray.AssemblyInfo.cs
+C:\Users\s201031\source\repos\Week2Exercises\AIE_Week2_03_ReverseArray\bin\Debug\netcoreapp3.1\AIE_Week2_03_ReverseArray.exe
+C:\Users\s201031\source\repos\Week2Exercises\AIE_Week2_03_ReverseArray\bin\Debug\netcoreapp3.1\AIE_Week2_03_ReverseArray.deps.json
+C:\Users\s201031\source\repos\Week2Exercises\AIE_Week2_03_ReverseArray\bin\Debug\netcoreapp3.1\AIE_Week2_03_ReverseArray.runtimeconfig.json
+C:\Users\s201031\source\repos\Week2Exercises\AIE_Week2_03_ReverseArray\bin\Debug\netcoreapp3.1\AIE_Week2_03_ReverseArray.runtimeconfig.dev.json
+C:\Users\s201031\source\repos\Week2Exercises\AIE_Week2_03_ReverseArray\bin\Debug\netcoreapp3.1\AIE_Week2_03_ReverseArray.dll
+C:\Users\s201031\source\repos\Week2Exercises\AIE_Week2_03_ReverseArray\bin\Debug\netcoreapp3.1\AIE_Week2_03_ReverseArray.pdb
+C:\Users\s201031\source\repos\Week2Exercises\AIE_Week2_03_ReverseArray\obj\Debug\netcoreapp3.1\AIE_Week2_03_ReverseArray.dll
+C:\Users\s201031\source\repos\Week2Exercises\AIE_Week2_03_ReverseArray\obj\Debug\netcoreapp3.1\AIE_Week2_03_ReverseArray.pdb
