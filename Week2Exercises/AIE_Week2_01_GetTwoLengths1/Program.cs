@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace AIE_19_GetTwoLengths
+namespace AIE_01_GetTwoLengths
 {
     class Program
     {

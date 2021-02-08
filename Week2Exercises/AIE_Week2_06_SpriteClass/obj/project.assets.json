@@ -66,11 +66,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\s201031\\Desktop\\Week 2 Class Exercises\\Week2Exercises\\Week2Exercises\\AIE_Week2_06_SpriteClass\\AIE_Week2_06_SpriteClass.csproj",
+      "projectUniqueName": "C:\\Users\\s201031\\Desktop\\Week2Exercisess\\Week2Exercises\\Week2Exercises\\AIE_Week2_06_SpriteClass\\AIE_Week2_06_SpriteClass.csproj",
       "projectName": "AIE_Week2_06_SpriteClass",
-      "projectPath": "C:\\Users\\s201031\\Desktop\\Week 2 Class Exercises\\Week2Exercises\\Week2Exercises\\AIE_Week2_06_SpriteClass\\AIE_Week2_06_SpriteClass.csproj",
+      "projectPath": "C:\\Users\\s201031\\Desktop\\Week2Exercisess\\Week2Exercises\\Week2Exercises\\AIE_Week2_06_SpriteClass\\AIE_Week2_06_SpriteClass.csproj",
       "packagesPath": "C:\\Users\\s201031\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\s201031\\Desktop\\Week 2 Class Exercises\\Week2Exercises\\Week2Exercises\\AIE_Week2_06_SpriteClass\\obj\\",
+      "outputPath": "C:\\Users\\s201031\\Desktop\\Week2Exercisess\\Week2Exercises\\Week2Exercises\\AIE_Week2_06_SpriteClass\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\s201031\\AppData\\Roaming\\NuGet\\NuGet.Config",

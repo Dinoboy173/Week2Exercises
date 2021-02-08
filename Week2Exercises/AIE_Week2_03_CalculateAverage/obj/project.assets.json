@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\s201031\\Desktop\\Week 2 Class Exercises\\Week2Exercises\\Week2Exercises\\AIE_Week2_03_CalculateAverage\\AIE_Week2_03_CalculateAverage.csproj",
+      "projectUniqueName": "C:\\Users\\s201031\\Desktop\\Week2Exercisess\\Week2Exercises\\Week2Exercises\\AIE_Week2_03_CalculateAverage\\AIE_Week2_03_CalculateAverage.csproj",
       "projectName": "AIE_Week2_03_CalculateAverage",
-      "projectPath": "C:\\Users\\s201031\\Desktop\\Week 2 Class Exercises\\Week2Exercises\\Week2Exercises\\AIE_Week2_03_CalculateAverage\\AIE_Week2_03_CalculateAverage.csproj",
+      "projectPath": "C:\\Users\\s201031\\Desktop\\Week2Exercisess\\Week2Exercises\\Week2Exercises\\AIE_Week2_03_CalculateAverage\\AIE_Week2_03_CalculateAverage.csproj",
       "packagesPath": "C:\\Users\\s201031\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\s201031\\Desktop\\Week 2 Class Exercises\\Week2Exercises\\Week2Exercises\\AIE_Week2_03_CalculateAverage\\obj\\",
+      "outputPath": "C:\\Users\\s201031\\Desktop\\Week2Exercisess\\Week2Exercises\\Week2Exercises\\AIE_Week2_03_CalculateAverage\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\s201031\\AppData\\Roaming\\NuGet\\NuGet.Config",

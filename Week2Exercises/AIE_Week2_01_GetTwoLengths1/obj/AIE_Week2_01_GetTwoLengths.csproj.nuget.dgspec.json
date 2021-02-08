@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\s201031\\Desktop\\Week 2 Class Exercises\\Week2Exercises\\Week2Exercises\\Week2Exercises\\AIE_Week2_01_GetTwoLengths.csproj": {}
+    "C:\\Users\\s201031\\Desktop\\Week2Exercisess\\Week2Exercises\\Week2Exercises\\AIE_Week2_01_GetTwoLengths1\\AIE_Week2_01_GetTwoLengths.csproj": {}
   },
   "projects": {
-    "C:\\Users\\s201031\\Desktop\\Week 2 Class Exercises\\Week2Exercises\\Week2Exercises\\Week2Exercises\\AIE_Week2_01_GetTwoLengths.csproj": {
+    "C:\\Users\\s201031\\Desktop\\Week2Exercisess\\Week2Exercises\\Week2Exercises\\AIE_Week2_01_GetTwoLengths1\\AIE_Week2_01_GetTwoLengths.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\s201031\\Desktop\\Week 2 Class Exercises\\Week2Exercises\\Week2Exercises\\Week2Exercises\\AIE_Week2_01_GetTwoLengths.csproj",
+        "projectUniqueName": "C:\\Users\\s201031\\Desktop\\Week2Exercisess\\Week2Exercises\\Week2Exercises\\AIE_Week2_01_GetTwoLengths1\\AIE_Week2_01_GetTwoLengths.csproj",
         "projectName": "AIE_Week2_01_GetTwoLengths",
-        "projectPath": "C:\\Users\\s201031\\Desktop\\Week 2 Class Exercises\\Week2Exercises\\Week2Exercises\\Week2Exercises\\AIE_Week2_01_GetTwoLengths.csproj",
+        "projectPath": "C:\\Users\\s201031\\Desktop\\Week2Exercisess\\Week2Exercises\\Week2Exercises\\AIE_Week2_01_GetTwoLengths1\\AIE_Week2_01_GetTwoLengths.csproj",
         "packagesPath": "C:\\Users\\s201031\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\s201031\\Desktop\\Week 2 Class Exercises\\Week2Exercises\\Week2Exercises\\Week2Exercises\\obj\\",
+        "outputPath": "C:\\Users\\s201031\\Desktop\\Week2Exercisess\\Week2Exercises\\Week2Exercises\\AIE_Week2_01_GetTwoLengths1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\s201031\\AppData\\Roaming\\NuGet\\NuGet.Config",
